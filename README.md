@@ -23,22 +23,21 @@ This stunning image reflects my appreciation for creativity, storytelling, and e
 ---
 ## What’s Next?
 1. **Labs and Projects**
-  - In upcoming labs, I will use block diagrams and circuit diagrams to break down and represent complex engineering systems.
-  - Key projects include designing a hierarchical system with economic and sustainability considerations and refining it   
-   using   a “design, test, and build” approach.
+    - In upcoming labs, I will use block diagrams and circuit diagrams to break down and represent complex engineering systems.
+    - Key projects include designing a hierarchical system with economic and sustainability considerations and refining it using a “design, test, and build” approach.
 2. **Skill Building**
-  - Developing expertise in creating Gantt charts and PERT/CPM tools for project planning and task breakdown.
-  - Exploring design trade-offs by evaluating performance, features, and costs to balance technical and non-technical            requirements.
+    - Developing expertise in creating Gantt charts and PERT/CPM tools for project planning and task breakdown.
+    - Exploring design trade-offs by evaluating performance, features, and costs to balance technical and non-technical requirements.
 3. **Communication and Teamwork**
-  - Enhancing my ability to write clear and accurate technical reports.
-  - Collaborating within multidisciplinary teams to turn initial ideas into fully realized projects.
+    - Enhancing my ability to write clear and accurate technical reports.
+    - Collaborating within multidisciplinary teams to turn initial ideas into fully realized projects.
 4. **Ethics and Social Responsibility**
-  - Considering the social and ethical impacts of engineering designs to ensure responsible and inclusive innovation.
+    - Considering the social and ethical impacts of engineering designs to ensure responsible and inclusive innovation.
 ---
 
 ## Skills
 
-- **Programming Languages:** Python, C++, and Markdown
+- **Programming Languages:** Python, C++, and JavaScript
 - **Technical Skills:**
   - Building and maintaining hardware systems
 - **Soft Skills:** Leadership, teamwork, and customer engagement
@@ -51,6 +50,7 @@ This stunning image reflects my appreciation for creativity, storytelling, and e
 
 ## Links
 - [LinkedIn Profile](https://www.linkedin.com/in/corinthian-bray-5131ab185/)
+- [Instagram Profile](https://www.instagram.com/divinefinesse/)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ---
