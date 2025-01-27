@@ -59,4 +59,4 @@ This stunning image reflects my appreciation for creativity, storytelling, and e
 This captivating scene is from Arcane, a visual masterpiece that inspires creativity and storytelling.
 
 ---
-Thank you for visiting my page!
+`Thank you for visiting my page!`
