@@ -51,6 +51,7 @@ This stunning image reflects my appreciation for creativity, storytelling, and e
 ## Links
 - [LinkedIn Profile](https://www.linkedin.com/in/corinthian-bray-5131ab185/)
 - [Instagram Profile](https://www.instagram.com/divinefinesse/)
+- [Team Site](https://sites.google.com/stevens.edu/teamproject/home0)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ---
