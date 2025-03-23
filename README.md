@@ -19,7 +19,16 @@ This stunning image reflects my appreciation for creativity, storytelling, and e
 ## Assignments and Projects
 
 ### Labs
-*coming soon*
+1. **Lab 1**
+   - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/c0dbce64d333a9b1cb93b2691922d2c3e8390b47/LABS/LAB%201)
+3. **Lab 3**
+   - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/c0dbce64d333a9b1cb93b2691922d2c3e8390b47/LABS/LAB%203)
+3. **Lab 5**
+   - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/c0dbce64d333a9b1cb93b2691922d2c3e8390b47/LABS/LAB%205)
+4. **Lab 6**
+   - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/c0dbce64d333a9b1cb93b2691922d2c3e8390b47/LABS/LAB%206)
+
+*more coming soon*
 ---
 ## What’s Next?
 1. **Labs and Projects**
