@@ -27,7 +27,9 @@ This stunning image reflects my appreciation for creativity, storytelling, and e
    - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/c0dbce64d333a9b1cb93b2691922d2c3e8390b47/LABS/LAB%205)
 4. **Lab 6: Node.js and Pystache**
    - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/c0dbce64d333a9b1cb93b2691922d2c3e8390b47/LABS/LAB%206)
-
+4. **Lab 7: ThingSpeak and Google Sheets**
+   - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/8bdb2526d6150fc321eae40853bf967186f2356a/LABS/LAB%207)
+  
 *more coming soon*
 ---
 ## What’s Next?
