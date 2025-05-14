@@ -21,6 +21,8 @@ This stunning image reflects my appreciation for creativity, storytelling, and e
 ### Labs
 1. **Lab 1: GHDL and GTKWave**
    - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/c0dbce64d333a9b1cb93b2691922d2c3e8390b47/LABS/LAB%201)
+2. **Lab 2: Command Line (PowerShell)**
+   - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/bbbdc40c9ecf81d840971084b0d7105665445ff1/LABS/LAB%202)
 3. **Lab 3: Python**
    - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/c0dbce64d333a9b1cb93b2691922d2c3e8390b47/LABS/LAB%203)
 3. **Lab 5: Paho-MQTT**
@@ -29,6 +31,12 @@ This stunning image reflects my appreciation for creativity, storytelling, and e
    - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/c0dbce64d333a9b1cb93b2691922d2c3e8390b47/LABS/LAB%206)
 4. **Lab 7: ThingSpeak and Google Sheets**
    - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/8bdb2526d6150fc321eae40853bf967186f2356a/LABS/LAB%207)
+4. **Lab 8: CPU & Memory Data Visualization with Python**
+   - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/489f94d6735659317a98404dda96720c6d3df69e/LABS/LAB%208)
+4. **Lab 9: Yang**
+   - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/489f94d6735659317a98404dda96720c6d3df69e/LABS/LAB%209)
+4. **Lab 10: Blockchain**
+   - [Click ME!](https://github.com/DivineFinesse/CPE322/tree/489f94d6735659317a98404dda96720c6d3df69e/LABS/LAB%2010)
   
 *more coming soon*
 ---
